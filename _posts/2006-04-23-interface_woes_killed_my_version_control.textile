@@ -1,0 +1,12 @@
+---
+layout: post
+title: Interface woes killed my version control
+---
+ 
+I had just completed 4 hours of work on my current freelance project when disaster struck. Tonight, while attempting to upload the latest build of <a href="http://pittsburghartreview.org">PGHArtReview</a> to my version control repository, I managed to nuke all of the changes that I had done.
+
+Although I certainly was warned by the GUI program that I was using that I was about to 'revert' changes, I though that meant the changes that I had made to the server, and not to my local files. Actually, to tell you the truth, deleting all of the files from the current revision on the server was probably not a good idea either. I think that when I am presented with interfaces that start asking me questions that I am not prepared to answer, I start clicking buttons at random.
+
+I really believe that version control systems are one of the best things to come out of the open source movement, but I really wish that there was one that spoke to simple designers/programmers like me. I am currently using svn which is supposedly easier than CVS, but I really can't tell. All the interface metaphores are greek to me, especially in the GUI that I am using. I think that I am just going to go with the command line from here on in (I need to finish this project with version control, so I am guarenteed to learn something).
+
+Ah well, better luck next time jon. I hope you don't totally mess up everything!

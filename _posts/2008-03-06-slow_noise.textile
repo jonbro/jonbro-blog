@@ -1,0 +1,12 @@
+---
+layout: post
+title: slow noise
+---
+ 
+Video of a arudino based video synthesizer I put together yesterday.
+
+<object type="application/x-shockwave-flash" width="400" height="300" data="http://www.vimeo.com/moogaloop.swf?clip_id=760206&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=1&amp;color=01AAEA">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=760206&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=1&amp;color=01AAEA" /></object>
+
+In other news, the show in detroit went great. Detroit was a really beautiful town for its wide roads, and 1940s vintage signage. The perfect place for the urban hermit.
+
+ I have a show coming up in Pittsburgh at the end of the month. Yes.

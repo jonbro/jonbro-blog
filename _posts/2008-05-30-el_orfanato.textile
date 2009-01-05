@@ -1,0 +1,16 @@
+---
+layout: post
+title: el orfanato
+---
+ 
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;">
+ <a href="http://www.flickr.com/photos/ashleylovespizza/2531141975/" title="photo sharing"><img src="http://farm4.static.flickr.com/3154/2531141975_c6b908c94f_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+ <br />
+ <span style="font-size: 0.9em; margin-top: 0px;">
+  <a href="http://www.flickr.com/photos/ashleylovespizza/2531141975/">el orfanato</a> by <a href="http://www.flickr.com/people/ashleylovespizza/">ashleylovespizza</a>.
+ </span>
+</div>
+people staying at my house.<br />
+<br />
+YAY!
+<br clear="all" />

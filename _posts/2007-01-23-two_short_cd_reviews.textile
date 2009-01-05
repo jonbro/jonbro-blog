@@ -1,0 +1,16 @@
+---
+layout: post
+title: Two short cd reviews
+---
+ 
+<p>Gotta get these reviews off my work computer so that I can potentially give the cds back to <a href="http://www.wrct.org">the radio station</a>. Also, shamelessly ripping off <a href="http://al3x.net/entries/765">Al3x</a> for blogging inspiration.</p>
+
+
+	<p><strong>Burial &#8211; Burial</strong><br>
+Completely rain-soaked dubstep, quite dark, but it still pulls through some elements of the two-step that it grew out of. Reminds me of a cross between photek and monolake. The only major issues with this record is when there are actual distinct vocals, they fall into a very posturing kind of sound. The vocals, when used as texture are really quite great. P.S. These tracks have been around for a long time now, probably not right to call them _dub_step anymore.<br>
+recommended tracks: 2, 6, 7, 8</p>
+<iframe name="bleepPlayer" id="bleepPlayer" width="280" height="141" src="http://www.bleep.com/player/?/HBCD001/55133/maxi/D3F9D3/575757/00D126" frameborder="0" scrolling="no"></iframe>
+
+	<p><strong>Venetian Snares &#8211; Hospitality</strong><br>
+More of the cut up breaks and superfast atmospheres from Aaron Funk. It seems that the snares have gone forward with melodic song structure, and is luckily enough incorporating the less amen-y breaks that were on ross callig. The orchestral sounds on this album have much more in common with something like Âµ-ziq&#8217;s royal astronomy record, very preset / midi / playstation era synth sounding. Sweet acid on the last track.</p>
+<iframe name="bleepPlayer" id="bleepPlayer" width="280" height="141" src="http://www.bleep.com/player/?/ZIQ140/66336/maxi/D3F9D3/575757/00D126" frameborder="0" scrolling="no"></iframe>

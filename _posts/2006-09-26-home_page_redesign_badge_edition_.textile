@@ -1,0 +1,18 @@
+---
+layout: post
+title: Home Page Redesign - Badge Edition 
+---
+ 
+I have been meaning to do a redesign of my homepage for a while now, and I just got done with it tonight.
+
+<em>Quick!</em>Â  <a target="_blank" href="http://www.jonbro.tk">Go take a look at it, and come right back.</a>
+
+I have not really needed the college portfolio style site which has been living in my root directory for a while now, and I have been meaning to replace it with something that can stay more current with my life. I am sure the "all-feed" home page is not a new idea, but designing around all of those different forms of content was quite a bit of a pain.
+
+After some initial forays into trying to get a unified theme on all of them, I realized that I can just do the old "use someone elses design as a crutch" and wrap it in my own mess. So that is exactly what I did.
+
+There are still a few feeds that I would like to add there, and perhaps even build a few of my own services to help fill out my page (a self contained about box, perhaps a little shoutboard), but I am quite happy with my evenings work.
+
+Let me know what you think, glaring oversights, etc.
+
+P.S. The portfolio will be coming back, just in a more easy to maintain format, perhaps some type of wiki. But that is a project for another night.

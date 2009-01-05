@@ -1,0 +1,15 @@
+---
+layout: post
+title: Handface - all albums
+---
+ 
+Download, distribute, have fun. Probably start with <i>And You</i>.
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/PSUZ6xZEqJA&hl=en"></param><embed src="http://www.youtube.com/v/PSUZ6xZEqJA&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+
+<a href="http://jonbro.tk/handface/mp3s/Handface_album_1.zip">Album1</a>
+<a href="http://jonbro.tk/handface/mp3s/Handface_and_you.zip">And You</a>
+<a href="http://jonbro.tk/handface/mp3s/Handface_not_actual_size.zip">Not Actual Size</a>
+<a href="http://jonbro.tk/handface/mp3s/Handface-Did_You_Mean_Hand_Face.zip">Did you mean Hand Face?</a>
+
+A note, this band was made of myself on gameboy, <a href="http://www.theamazingrolo.net/">Yann Seznec (the amazing rolo)</a> on guitar / bass, and <a href="http://www.vimeo.com/user529399">Alberto Almarza</a> on drums.

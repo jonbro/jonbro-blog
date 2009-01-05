@@ -1,0 +1,38 @@
+---
+layout: post
+title: Mac Shmups
+---
+ 
+I have been meaning to start a database of mac shmups for a while now, as it is one of my favorite genres, but the lack of <a href="http://en.wikipedia.org/wiki/Dojin_soft">dojin soft</a> & the <a href="http://shootthecore.moonpod.com/Home.html">millions and millions of shooters that it brings</a> really lowers the number of games to something that can be covered in a few blog posts. Hopefully the development of shooters on the mac will speed up, but for the time being, here is a brief collection of the shmups that I have been playing to bide my time until I can buy a pc for a tax deduction.
+
+<!--more-->I couldn't get by without at least a quick mention of Kenta Cho's ABA games, who releases his source, resulting in some <a href="http://shinh.skr.jp/osxbin/">awesome</a> <a href="http://homepage.mac.com/qtq/index_e.html">ports</a>. His <a href="http://www.asahi-net.or.jp/~cs8k-cyu/windows/mcd_e.html">latest one</a> just came out, and it has yet to be ported, so someone who knows their way around SDL and D has the opportunity to be my best friend, at least for a few minutes.
+
+<a href="http://www.incitti.com/Blitz/">Gridwars 3</a> is a clone of <a href="http://www.gamespot.com/xbox360/action/geometrywarsretroevolved/index.html">Geometry Wars 3</a>, which is itself a clone of <a href="http://www.klov.com/game_detail.php?game_id=9347">Robotron: 2048</a>. It is a high-scoring, high-speed shooter that you control with two joysticks.
+
+<a href="http://www.llamasoft.co.uk/gridrunner.php">Gridrunner ++</a> is a hella dope psychotic mayhem shooter that is developed by someone who has been in the business for an incredibly long time. This one took up alot of my time in the design computer clusters in college and I am somewhat sad that I have rediscovered it, if only because I am going to lose a ton of time to it again.
+I ran into some more fun ones tonight, namely: <a href="http://www.macgamestore.com/detail.php?ProductID=542">bullet candy</a>. It is another one in the style of Robotron, but with more bullet mayhem. It also has a pretty slick sound track and some nice particle effects.
+
+I also ran across <a href="http://www.nether.org.uk/bad_mac_code.html#super_phoenix">Super Phoenix</a> tonight, which is not technically a shmup, but has some pretty nice graphics and pretty frantic gameplay so it comes close enough to qualify for this post.
+
+Ok, I think that about does it for me tonight, sorry for the drunken blogging last night, but I hope this post (which has been far too long in production) more than makes up for it. Enjoy ignoring your work!
+
+[edit] I have added an ad, because lots of people come to this post from google searches. I hope you find what you were looking for!
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-5804328843804787";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+//2007-06-21: blog_single
+google_ad_channel = "4263994799";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "2BA94F";
+google_color_text = "333333";
+google_color_url = "2BA94F";
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>

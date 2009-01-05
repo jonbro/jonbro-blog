@@ -1,0 +1,8 @@
+---
+layout: post
+title: Beach Animals
+---
+ 
+Earlier this evening I went to a lecture at Carnegie Mellon by <a href="http://www.strandbeest.com/">Theo Jansen about his Beach Animals </a>(<a href="http://www.kottke.org/05/05/theo-jansen-beach-animals">kottke has a nice roundup of links on his site</a>, <a href="http://www.strandbeest.com/movies.html">movies here</a>). While the smoothness exhibited by his mechanoids was really impressive, I was most struck by the pnuematic logic systems that he had built. I was not able to get a picture of them, but he had two versions, both of which could store numbers or release pressure based off of incoming pressure.
+
+The logic gates reminded me of the turing machines that people build out of <a href="http://www.monochrom.at/turingtrainterminal/">model trains</a> or <a href="http://www.mapageweb.umontreal.ca/cousined/lego/5-Machines/Turing/Turing.html">lego sets</a>. It was nice to see that logical gates can work with the absence of electricity. I would like to see more turing machines that ran on wind power or water power. The application of the logic gate to actual moving robots is also nice, it really shows the bridge between computation and motivation without needing to kneel to consumer objects, which is what I find is one of my biggest hangup as identifiying myself as a new media artists.

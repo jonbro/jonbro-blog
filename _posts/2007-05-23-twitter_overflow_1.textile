@@ -1,0 +1,16 @@
+---
+layout: post
+title: twitter overflow 1
+---
+ 
+just finished a 4 hour long meal. totally satisfied. had chicken with chili and lime, beer, corn, and chocolate. laid in the grass and looked at the stars.
+
+I would have put this in twitter, but I was 5 characters over the limit. This is happening with disturbing frequency, look for posts on this blog to pick up with increasing frequency at least until I can figure out a better solution.
+
+Another thing that is in the pipe is this twitter to facebook status bridge. It is clearly not done, but a quick/fun project none the less. If you would go ahead and edit the login and password information for your accounts on both of these services and setup a cron job to call this script, you would be golden. Also, you are gonna need the <a href='http://rubyforge.org/projects/facebookbot'>facebook bot</a>, which just happens to be the first opensource project that I have ever contributed to.
+
+<a href="http://jonbro.tk/blog/wp-content/uploads/2007/05/twitter_to_facebook.rb.zip">Here is the download.</a>
+
+As a final note, here is a download of an ep that I finished in the past month or so. It is mostly techno bangers, with a brief excursion into videogamemusic. I promise that the next one will be on a proper netlable rather than mixed in with soooo much crap. Thanks for downloading in the meantime, and Thanks to <a href="http://onnyc.tumblr.com/">onnyc</a> for the dope ass cover!
+
+Download: <a href="http://jonbro.tk/blog/wp-content/uploads/2007/05/Pillar_of_Schmaltz.zip">JonBro - Pillar of Schmaltz!</a>.

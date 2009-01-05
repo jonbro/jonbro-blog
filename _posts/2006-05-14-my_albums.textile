@@ -1,0 +1,12 @@
+---
+layout: post
+title: My Albums
+---
+ 
+<a href="http://www.jonbro.tk/albums/">As a public <strike>dis</strike> service I packed up the two albums that I have completed into zip file and stuck them on a web page for you to download. Please enjoy.</a>
+
+I suspect that this method of making little webpages without database backend, nor any method for organizing the urls is going to come and bite me in the ass someday, but until I get some free time, I am quite enjoying designing little tasty nuggets of throwaway html. This is clearly a discussion for some other time.
+
+In other news, my life has been going pretty speedily recently and I havn't had much time to keep up with my blog. I feel like this  <a href="http://www.nimblecode.com/articles/2006/02/16/original-blogging-content">article about slowbloggging</a> is pretty applicable to how I am feeling right now.
+
+<em>Edit!!! </em>: I was just informed that none of the links to my mp3s were working. They are now. Sorry folks.

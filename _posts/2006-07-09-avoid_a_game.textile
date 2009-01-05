@@ -1,0 +1,11 @@
+---
+layout: post
+title: Avoid, a game.
+---
+ 
+<img align="left" title="avoid screenshot" id="image25" alt="avoid screenshot" style="margin-right: 10px" src="http://jonbro.tk/blog/wp-content/uploads/2006/07/avoid.thumbnail.jpg" />I just made this little game in <a href="http://www.processing.org">processing</a>, I hope you enjoy it. This is the first arcade style game that I have made, other than a pong clone. I used the <a href="http://www.cs.princeton.edu/~traer/physics/">traer physics</a> library, and I think all in all it is a nice little casual game. The only controls are the left and right arrow keys.
+
+<a href="http://jonbro.tk/blog/wp-content/uploads/2006/07/avoid_win.zip">pc download</a> (1.5mb)
+<a href="http://jonbro.tk/blog/wp-content/uploads/2006/07/avoid_mac.zip">mac download</a> (1.5mb)
+
+please leave a comment with your thoughts and suggestions.

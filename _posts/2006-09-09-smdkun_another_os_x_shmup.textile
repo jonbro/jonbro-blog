@@ -1,0 +1,12 @@
+---
+layout: post
+title: smdkun - another os x shmup
+---
+ 
+<img align="left" style="margin-right: 10px" title="SDMkun" id="image29" alt="SDMkun" src="http://jonbro.tk/blog/wp-content/uploads/2006/09/sdmkun.thumbnail.jpg" />This one is a bit strange, not really a game so much as a trainer for different bullet hell scenarios. You can find the link to the download page nearly at the bottom of the <a href="http://shinh.skr.jp/sdmkun/">developers page</a>. I am not sure if this is a kenta cho production or not, but it is built using his bulletML package.
+
+Once you get to the download page, you may find that you need some instructing as to where to get the file. Luckily, <a href="http://www.the2bears.com/?p=515">the2bears has posted a guide to downloading from the vector.co.jp pages</a>.
+
+Once you manage to get it downloaded, there is a link in the english readme file to a <a href="http://www.the-nextlevel.com/board/showthread.php?s=&threadid=5994">forum post that explains the basic play mechanics</a>. Enjoy!
+
+<em>P.S. you can download a windows version at that same first link.Â </em>

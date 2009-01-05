@@ -1,0 +1,10 @@
+---
+layout: post
+title: iTrip dock LCD sucks.
+---
+ 
+I just got an iPod last week, an old mini that my roommate was unloading to make room for one of the new nanos. Excited to listen to something other than public radio sports coverage on my drive to work in the morning, I went out and got an <a href="http://www.amazon.com/Griffin-Technology-9500-TRIPDA-Transmitter-Connector/dp/B000BREQN4">iTrip - the version with the dock connector and the LCD screen</a>. I should have read the online reviews first. This thing is seriously a piece of trash.
+
+<strong>Specs?</strong> I only get signal when the iTrip is within a foot of my car radio, and as for the radio in my kitchen, the antenna wire has to be <em>physically wrapped</em> around the iTrip. The FM band is pretty crowded in Pittsburgh, but I have witnessed other portable audio FM transmitters working a lot better than this. In addition to the broadcast issues, with the iPod volume maxed, I need to turn my car radio up twice as loud as my normal (loud) listening volume. Once the broadcast is at a comfortable listening volume, so is the noise floor on my not to shabby car radio. I have never once noticed it before.
+
+Ok, <strong>back to the store you go!</strong> hopefully I will get a better one on the next trip.

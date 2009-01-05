@@ -1,0 +1,10 @@
+---
+layout: post
+title: Short term backup for netNewsWire tabs
+---
+ 
+Last week, I came across this application called <a href="http://listmixer.com/">ListMixer</a> that behaves like a short term memory dump for the web. For the most part, it is a functional clone of del.icio.us, except it dumps any links from your stream that have not been clicked in 30 days.
+
+One of the methods that I was imagining using del.icio.us for was to dump articles that I didn't have the time nor the brainpower to understand, so that my esteemed colleages could summarize stuff for me at lunch the next day. But because of the permanence of del.icio.us, it has started to behave much more like a linkblog, where I need to determine the content worthy before posting it.
+
+Long story short, I am going to post the zillions of articles that are jamming up my feedreader tabs to <a href="http://listmixer.com/list?acct_id=1045">my ListMixer</a>, and I wrote this <a href="http://jonbro.tk/blog/wp-content/uploads/2006/02/dumpOpenTabsToListMixer.applescript">little script that automajically does so</a> (if your feedreader is <a href="http://ranchero.com/netnewswire/">netNewsWire</a>). You will need to open up the script and enter in your user data, but it is not to hard to do. Enjoy!

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Too many feeds!
+---
+ 
+<div style="float: right; margin-left: 10px; margin-bottom: 10px"><a title="photo sharing" href="http://www.flickr.com/photos/mrmiddel/112097659/"><img style="border: 2px solid #000000" src="http://static.flickr.com/54/112097659_f35eb51d64_m.jpg" /></a>
+
+<span style="font-size: 0.9em; margin-top: 0px">
+<a href="http://www.flickr.com/photos/mrmiddel/112097659/">2006-03-13-Trein-01</a> by <a href="http://www.flickr.com/people/mrmiddel/">mrmiddel</a>.
+</span></div>
+I am trying to figure out where this weblog is going, as always. I would like to consolidate my feeds somehow, possibly on this page. Right now, they are all located at <a href="http://jonbro.suprglu.com/">this suprglu account</a> which is comprised of <a href="http://flickr.com/photos/jonbro/">my flickr feed</a>, <a href="http://del.icio.us/jonbro">my links</a>, and various other junk. I think I am going to move it all here as soon as I have a free moment (unless there is a uproar from the crowd). More details to follow as to why I don't have any time.
+
+hint: it has to do with my new job.
+<br clear="all" />

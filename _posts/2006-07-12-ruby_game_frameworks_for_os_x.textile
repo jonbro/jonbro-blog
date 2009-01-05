@@ -1,0 +1,15 @@
+---
+layout: post
+title: Ruby game frameworks for OS X
+---
+ 
+The other night, while surfing on the <a href="http://www.idevgames.com/forum/index.php">idevgames</a> forum, I found a number of game frameworks that are made for <a href="http://www.ruby-lang.org/en/">Ruby</a>. While I don't expect to start writing games in any of these right now, I think that they may become more interesting as the user bases mature.
+
+<a href="http://shattered.hastilymade.com/">Shattered Ruby</a> - An MVC framework for making games, something along the lines of rubyOnRails (for games!). In fact, I think that the creators presented this package at the RailsConf. In all likelyhood, this one will gain the most steam of all the packages here.
+
+<a href="http://www.idevgames.com/forum/showthread.php?t=12037">Aerosol</a> - Accellerated OpenGL 2D framework. I really like this one because the author went a far way to make the syntax of the language really simple.
+
+<a href="http://www.raschke.de/julian/gosu/">Gosu</a> -  Another 2D OpenGL accellerated framework. This one claims to support FMOD, so there is probably alot of fun options for music in this one, but I have yet to install and try it out, so it is mostly included here for completness.
+
+RubyGameCommon and RubyGameShellCommon - the <a href="http://www.idevgames.com/forum/showthread.php?t=8567">second post in this thread</a> has partial directions for getting these up and running. Seem to be <a href="http://www.swig.org/">swig</a> wrappers for <a href="http://sourceforge.net/projects/gameshell/">GameShell</a> and something else, probably the most robust of any of these options, but at the same time, these would need the most work to get a frame for you game up and running in. Even so, this repository is worth downloading just for all the great code that is contained within. I felt pretty great when I got one of these games up and running.
+If anyone finds any other Ruby game frameworks, feel free to leave them here in the comments.

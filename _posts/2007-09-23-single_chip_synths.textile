@@ -1,0 +1,24 @@
+---
+layout: post
+title: single chip synths
+---
+ 
+From <a href="http://forum.monome.org/topic/1441">a post over on the monome forums</a>, some single chip / open source synth projects:
+
+<strong>AVR chip based designs:</strong>
+<a href="http://www.elby-designs.com/avrsynth/avrsyn-about.htm">avrSynth</a> - Dual oscilator, DCF, DCA, plus some LFOs. Has pins for all kinds of front panel controls, plus midi in.
+<a href="http://www.roboterclub-freiburg.de/atmega_sound/atmegaSID.html">atmegaSID</a> - attempt to clone the functionality of the C64 SID chip, takes all of the register inputs that the original SID does, however, does not yet have all of the functionality duplicated. Needs to be driven from some type of serial interface, however there are a whole bunch of open pins on the chip, so it could certainly have some type of editing interface built into it.
+<a href="http://web.media.mit.edu/~nvawter/projects/1bit/">1bit groovebox</a> - full on crazy ass chip instrument, interface, sound output, the whole 9, also quite reductive in terms of sound pallette and control logic.
+
+<strong>Other chips</strong>
+<a href="http://www.saratronics.com/index.html">saratronics</a>
+<a href="http://oopic.com/soundgin/">soundgin</a> - synthesized speech, some oscilators.
+<a href="http://www.critterandguitari.com/catalog/index.php?main_page=product_info&cPath=1&products_id=2">critter board</a>
+<a href="http://www.ucapps.de/mbhp_opl3.html">OPL3 midibox</a>
+
+<strong>Really simple project</strong>
+<a href="http://www.medcosm.com/picaxe_beatbox.htm">picaxe beatbox</a>
+
+Also interesting are these <a href="http://tsp.bigcartel.com/">PARASITE modules</a>, small audio modules intended to be added into circuit bent hardware. Of particular interest to me is the filter module, which is sadly sold out right now.
+
+ok, that is it for now, just wanted to get this all in my database in case the monome forum goes down.
