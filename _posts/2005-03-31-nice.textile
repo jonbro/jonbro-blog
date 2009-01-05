@@ -1,0 +1,6 @@
+---
+layout: post
+title: nice.
+---
+
+it seems that <a href="http://www.bloglines.com">bloglines</a> has added a way that you can track your packages through it. niiice.

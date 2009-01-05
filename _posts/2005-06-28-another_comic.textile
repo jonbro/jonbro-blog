@@ -1,0 +1,6 @@
+---
+layout: post
+title: another comic
+---
+
+<style type="text/css">.flickr-photo { border: solid 1px #000000; }.flickr-frame { float: left; text-align: center; margin-right: 15px; margin-bottom: 15px; }.flickr-caption { font-size: 0.8em; margin-top: 0px; }</style><div class="flickr-frame">	<a href="http://www.flickr.com/photos/45421817@N00/22087832/" title="photo sharing"><img src="http://photos17.flickr.com/22087832_dfaa9d2b1a_t.jpg" class="flickr-photo" alt="ivdrip" /></a><br />	<span class="flickr-caption">		<a href="http://www.flickr.com/photos/45421817@N00/22087832/">ivdrip</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/45421817@N00/">jonbro</a>.	</span></div>one last one before I go to sleep.<br clear="all" />

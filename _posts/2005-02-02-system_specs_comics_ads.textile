@@ -1,0 +1,19 @@
+---
+layout: post
+title: System specs, comics, ads---
+---
+
+Tonight my mission is to write some system specs for a online collaborative comics writing system. I have been told that the right way to do it is in the <a href="http://www.uml.org/">Universal Modeling Language,</a> but after looking at the front page for a second, I think that project is bigger than tonight (although I find it interesting that you can write business models in UML). Tonight I am going to downgrade to just taking some notes...
+<br />
+<br />first, however, I have two announcements.
+<br />1) Google ad words are gone... Apparently <a href="http://www.robinsloan.com/epic/">google</a> <a href="http://www.wired.com/wired/archive/11.01/google_pr.html">is</a> <a href="http://www.google-watch.org/">evil</a>. In addition to that, the main goal of that little venture, to see specifics about the view logs, was not as successful as I thought it would be.
+<br />2) Welcome to another friend, Eli. I think that he will be writing nice essays and helping the content of this site increase, and possibly make it a nice destination for links and that type of junx. Slightly related, my name is Jonathan Brodsky, and I will be working to make the site reflect that.
+<br />
+<br />WTF SYSTEM NOTES FOLLOW
+<br />----------------------------------
+<br />A system to allow collaboration in the WTF style (pioneered by myself and Josh Atlas in the Carnegie Mellon University Newspaper, the <a href="http://www.thetartan.org/">Tartan</a> [haha, that site is the result of a comic {not written by myself, Josh Atlas, or and of the contributors to this site}]). The WTF style is for creator A to draw a panel, then for creator B to provide the captions for that panel, and draw the next. This occurs until the comic is complete, either based on a predetermined panel number, or based on the paper size / number of drawings.
+<br />An online system would allow for users to decide who they were going to work with and how long the completed comic would be (if in fact it was going to be completed at all). Average users would have thresholds for comics that would be displayed on them, based on completion percentage, contributing artists, and personal preference.
+<br />The Basis of the system would be a page that showed the last completed panel of the comics that you were working on. Once you wrote a caption for it, you would have the opportunity to draw the next panel. Only once that panel was complete and submitted would it stay in the system.
+<br />
+<br />This system would allow comics artists to find others with styles, tastes, or humor, as well as improve their weak points in the comic writing duality. Of course you probably already knew that, because there are about 3 people that read this, and I write comics with all of them (except you elijah, but we can fix that).
+<br />

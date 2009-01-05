@@ -1,0 +1,10 @@
+---
+layout: post
+title: Rails Cookbook | Hieraki
+---
+
+<a href="http://manuals.rubyonrails.com/read/chapter/48">Rails Cookbook | Hieraki</a>
+<br />
+<br />this is the last tutorial that I will need to do for rails... I hope :)
+<br />
+<br />then it is OFF TO THE RACES!

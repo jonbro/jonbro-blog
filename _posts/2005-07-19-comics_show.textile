@@ -1,0 +1,8 @@
+---
+layout: post
+title: Comics Web
+---
+
+<a href="http://comics.jonbro.tk/comics/show/1">Comics.jonbro.tk</a> is now up!!!
+<br />
+<br />have a phun!

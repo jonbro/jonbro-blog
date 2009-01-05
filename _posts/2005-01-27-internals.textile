@@ -1,0 +1,9 @@
+---
+layout: post
+title: Internals.
+---
+
+so, I know it is not professional to tell you all about the internal workings of the site, but this pertains to all of you.
+<br />
+<br />I fixed the comments!!! you can now comment on posts, so, please, do so!!! I can't wait to see what other people have to say about my short rambling statements about nothing.
+<br />

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Anil Dash - How Do We Judge Our Tools?
+---
+
+One for the idea hole:
+<br />
+<br />As I was reading today about web applications, I noticed that one of the main complaints is that they are inherintaly unstable. This is due to the fact that the application exists entirly on someone elses server. I propose that some developer creates tools that will allow users to easily host their own version on their home computer, with total database backup of at least their own files.
+<br />
+<br />It would need to be a one step process, and then the whole web 2.0 concept may really start taking off.
+<br />
+<br />this is the article that I was reading. <a href="http://www.dashes.com/anil/2005/07/27/how_do_we_judge">Anil Dash: How Do We Judge Our Tools?</a>

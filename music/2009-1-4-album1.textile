@@ -1,0 +1,19 @@
+---
+layout: default
+title: Album 1
+---
+
+<h2>Album 1</h2>
+<p>I made all of these tracks from 2003 - 2004 during a totally awesome relationship. There were some other tracks that I produced around this time period but alot of them were totally crap remixes of top 40 songs.</p>
+<p>I seem to have lost some of the track that I burned onto the original run of cds, but if I can find one of them I will re-upload everthing and inform through my <a href='http://www.jonbro.tk/blog'>blog</a>.</p>
+<ul>
+	<li><a href='mp3/JonBro_Album1_01_thanksforhangingoutwithmethisafternoon.mp3'>thanksforhangingoutwithmethisafternoon</a></li>
+	<li><a href='mp3/JonBro_Album1_02_mina.mp3'>mina</a></li>
+	<li><a href='mp3/JonBro_Album1_03_blue.mp3'>blue</a></li>
+	<li><a href='mp3/JonBro_Album1_04_stepone.mp3'>stepone</a></li>
+	<li><a href='mp3/JonBro_Album1_05_yestmaster.mp3'>yestmaster</a></li>
+	<li><a href='mp3/JonBro_Album1_06_spildywinner.mp3'>spildywinner</a></li>
+	<li><a href='mp3/JonBro_Album1_07_fishfile.mp3'>fishfile</a></li>
+	<li><a href='mp3/JonBro_Album1_08_blork.mp3'>blork</a></li>
+</ul>
+<p><a href='mp3/jonbro_album1.zip'>download the whole album as a zip file</a></p>

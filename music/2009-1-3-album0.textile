@@ -1,0 +1,25 @@
+---
+layout: default
+title: Album 0
+---
+
+<h2>Album 0</h2>
+<p>I completed this album in high school. It contains most of my musicial creation from that period, except for a few choice tracks that I did with my band at the time.</p><p>
+All of the track titles have been lost, so you will just have to make them up yourself.</p>
+<ul>
+	<li><a href='mp3/JonBro_Album0_Track_01.mp3'>track 1</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_02.mp3'>track 2</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_03.mp3'>track 3</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_04.mp3'>track 4</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_05.mp3'>track 5</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_06.mp3'>track 6</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_07.mp3'>track 7</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_08.mp3'>track 8</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_09.mp3'>track 9</a></li>
+	<li><a href='mp3/JonBro_Album0_Track_10.mp3'>track 10</a></li>
+</ul>
+<p><a href='mp3/jonbro_album0.zip'>download the whole album as a zip file</a></p>
+
+{% for category in post.categories %}
+  {{ category }}
+{% endfor %}

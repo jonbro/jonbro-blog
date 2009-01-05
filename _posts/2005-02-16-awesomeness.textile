@@ -1,0 +1,6 @@
+---
+layout: post
+title: Awesomeness
+---
+
+<div style="text-align: center;"><span style="font-style: italic;">At first glance it is an unremarkable piece of equipment.<br />Encased in metal, it contains at its heart a microchip no<br />more complex than the ones found in modern pocket calculators.</span><br /></div><br /><a href="http://www.rednova.com/news/display/?id=126649#121">link</a><br /><br />In other news, I told you so.

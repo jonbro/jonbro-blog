@@ -1,0 +1,6 @@
+---
+layout: post
+title: anarchaic unix problems
+---
+
+I am getting really pissed off at the fact that if I want to run my own server with web applications that I can access from anywhere I have to deal with innumerable problems. I don't mind the scripting, ruby and php and perl are all running fine, the problem that is really starting to piss me off is the fact that mySql is totally getting all up in my junx.<br /><br />should an application that appears to be 30+ years old really not have comprehensive help out there? perhaps it is the fact that I don't really know why I am having the problems that I am having.<br /><br />I guess there will always be a place in the world for people that are willing to bang their heads against these types of problems until they get a breakthrough.<br /><br />(the current problem that I am bashing my poor head against is <a href="http://www.mp3act.net/">mp3act</a>)

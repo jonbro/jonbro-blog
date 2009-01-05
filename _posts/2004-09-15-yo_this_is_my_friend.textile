@@ -1,0 +1,6 @@
+---
+layout: post
+title: YO THIS IS MY FRIEND
+---
+
+<a href="http://trashcadet.blogspot.com">e.dogg is hooking up the blog</a>

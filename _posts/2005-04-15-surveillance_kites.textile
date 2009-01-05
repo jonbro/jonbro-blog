@@ -1,0 +1,6 @@
+---
+layout: post
+title: Surveillance kites
+---
+
+Me and Eli have been talking recently about a project that is quite interesting to me, mounting a wireless surveillance camera on a kite and having it publish a live arial feed to a website (presumably, to offer arial surviellance to groups that could not afford it prior). So the main issue that we are dealing with now is the need for a low cost source of web cameras, with embedded webservers and 802.11x (or other alternatives). I was initially not sold on the plan of using a kite, because a balloon would offer a much more stable platform for the camera, but I am starting to realize that the cost of a weather ballon would be far to high, and the reasons for having a kite are stronger than just aesthetic, although aesthetic reasons are quite high.<br /><br />anyways, here are some links of related projects, interesting technology and so on...<br /><br /><a href="http://del.icio.us/tag/kite.cam">del.icio.us tag kite.cam</a><br /><br />feel free to contribute.

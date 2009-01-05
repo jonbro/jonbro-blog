@@ -1,0 +1,6 @@
+---
+layout: post
+title: the webternet
+---
+
+I have been dicking around on the webternet tonight (instead of finishing up this paper that I need to submit to a conference tomorrow) and have been getting progressively more excited about <a href="http://www.rubyonrails.org/">ruby</a>. I know that tons of tutorials are not necessarily a mark of a good piece of software, but the ease that they demonstrate just makes me want to learn, learn, LEARN!!! it also seems that this piece of software is running quite a few of my favorite web applications, and personally, I really don't want to learn php (it seems ugly, just leaving all that code sitting inside of every page). <br /><br />I also really want to develop that web comic thing that I talked about earlier, and this may just be the perfect platform.
